@@ -1,0 +1,8 @@
+either number can be removed. if it's the current number, ascendingSet needs to go back to False
+
+check():
+	if unsafe level:
+		if original report:
+			check()
+
+if the original report hits an unsafe level, create the 2 removal attempt reports (outside of a function, in the for loop) and run each of those. check() should return a "safe" boolean

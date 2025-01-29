@@ -1,0 +1,1 @@
+My solutions for AoC 2024, written in Python 3
